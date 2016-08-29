@@ -1,0 +1,6 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+Cria um espaço para se gravar ao commit.
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+Area de preparaçãos nos permite escolher quis arquivos serão rastreados para fazer o controle de versão
