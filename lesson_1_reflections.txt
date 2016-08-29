@@ -1,0 +1,26 @@
+Como é que a visualização de uma diff entre duas versões de um arquivo de ajuda que você vê o erro que
+foi introduzido?
+
+    Podendo comparar o que foi acrescentado, alterado ou exluido; nos arquivos comparado
+
+Como poderia ter fácil acesso a todo o histórico de um arquivo torná-lo um mais
+programador eficientes a longo prazo?
+
+    Utilizando o controle de versão
+
+Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+
+    Criando manualmente um commit posso ver em pequenos blocos o que foi alterado no código, porém posso esquecer de cria-lo, já no salvamento automático isso não aconteceria porém pode gerar muitos arquivos desnessesários.
+
+Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+
+    Por que sistemas de controle de versão como Git pode ser usado para sistemas que possuem arquivos que se inter relaciona para execução, já os outros como Google Docs trabalha somente com unico arquivo independente.
+
+Como você pode usar o log de comandos git e git diff para ver o histórico de arquivos?
+
+    Abrindo o git bash, executando o comando git log,depois diff ID ID para comparar os arquivos.
+
+De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+
+    Podendo restaurar versões anteriores do sitema que estavam funcionando, indentificando as possiveis alteraçõa que ocasionaram falha comparando as commit.
+
