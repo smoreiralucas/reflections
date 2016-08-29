@@ -3,4 +3,14 @@ O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
 Cria um espaço para se gravar ao commit.
 
 Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
 Area de preparaçãos nos permite escolher quais arquivos serão rastreados para fazer o controle de versão.
+
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+Posso garantir visualisando os arquivos que foi alterado.
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+
+Situações onde se tem um ideia para mostrar para alguém sem mecher no sitema que está rodando atualmente.
+
+
