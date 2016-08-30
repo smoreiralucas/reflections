@@ -12,4 +12,4 @@ Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais di
 	R = Colaboraria por e-mails e correlatos, o que poderia deixar mais confuso e o projeto for grande o github é mais dificil de aprender porém é muito eficiente.
 
 Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
-	R = Quando o projeto precisar
+	R = Quando o projeto precisar de colaboração de mais pessoas no projeto.
