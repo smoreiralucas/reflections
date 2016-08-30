@@ -1,5 +1,6 @@
 ﻿Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
-
-R = Quando necessitar de trabalhar mais de uma pessoas em um projeto, ou quando precisar de utilizar computadores diferentes.
-    Exemplo: notebook, computardo faculdade, desktop casa
-.
+	R = Quando necessitar de trabalhar mais de uma pessoas em um projeto, ou quando precisar de utilizar computadores diferentes.
+    Exemplo: notebook, computardo faculdade, desktop casa.
+	
+Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
+	Por que posso analizar o que vai ser atualizado de codigos.
