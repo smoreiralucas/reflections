@@ -3,4 +3,13 @@
     Exemplo: notebook, computardo faculdade, desktop casa.
 	
 Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
-	Por que posso analizar o que vai ser atualizado de codigos.
+	R = Por que posso analizar o que vai ser atualizado de codigos.
+	
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+	R = A importância é que se pode trebalhar na cópia offline.
+	
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+	R = Colaboraria por e-mails e correlatos, o que poderia deixar mais confuso e o projeto for grande o github é mais dificil de aprender porém é muito eficiente.
+
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+	R = Quando o projeto precisar
