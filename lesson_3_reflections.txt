@@ -1,0 +1,3 @@
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+R = Quando necessitar de trabalhar mais de uma pessoas em um projeto, ou quando precisar de utilizar computadores diferentes.
+    Exemplo: notebook, computardo faculdade, desktop casa
